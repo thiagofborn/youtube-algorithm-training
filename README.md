@@ -1,5 +1,11 @@
 # Training a model for YouTube Comments Classification
 
+## Scope
+
+Script drives real Chromium via Playwright, searches a set of study keywords (cloud/systems/math/science topics) on YouTube, opens top result, "watches" it for several minutes to feed YouTube's recommendation algorithm.
+
+Goal: nudge my own YouTube home feed toward content I actually want to study, instead of microdopamine bait (shorts, drama, random algo-bait) it defaults to.
+
 ## Prerequisites (macOS / Linux)
 
 - Python 3.9+ (`python3 --version`)
