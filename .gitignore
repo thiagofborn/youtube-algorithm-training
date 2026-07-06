@@ -1,0 +1,5 @@
+.venv/
+playwright_youtube_profile/
+youtube_profile/
+__pycache__/
+*.pyc
